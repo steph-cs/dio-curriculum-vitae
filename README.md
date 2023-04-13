@@ -1,6 +1,9 @@
 ## DIO Potência Tech Ifood - Desafio 02: Curriculum Vitae (CV)
 # Curriculum Vitae (CV)
-
+<p>
+Acesso em: <a href="https://steph-cs.github.io/dio-curriculum-vitae/
+" target="_blank">https://steph-cs.github.io/dio-curriculum-vitae/</a>.
+</p>
 <p>
 Curriculum Vitae (CV) utilizando template W3C: <a href="https://www.w3schools.com/howto/howto_website_create_resume.asp
 " target="_blank">https://www.w3schools.com/howto/howto_website_create_resume.asp</a>.
